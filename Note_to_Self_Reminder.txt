@@ -1,0 +1,7 @@
+So this is the 23rd of october and you've come to the realisation that you can't go on ignoring this like you have. 
+This is just a note to remind myself of the fact that starting today this repository will have my complete full and
+undivided attention for a minimum duration of 2 hours each day. Alongwith you'll also have to complete a minimum of 
+4 problems each day on codeforces with understanding. These will include problems A to D of any past contests, a new
+algorithm at the minimum from cp-algorithms each day alongwith solving atleast 3 leetcode problems of medium to hard 
+level by yourself each day. if you are to seek help in some problem, it will not count towards this quota of 3. Just 
+carry on and hope to do something well in life. You just can't carry on like this.
